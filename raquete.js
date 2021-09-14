@@ -7,8 +7,8 @@ let xBolinha=300;
 let yBolinha=200;
 let diametroBolinha=16;
 let raio = diametroBolinha / 2;
-let velocidadeXBolinha=2;
-let velocidadeYBolinha=2;
+let velocidadeXBolinha=4;
+let velocidadeYBolinha=4;
 let colidiu=false;
 
 //variaveis da raquete
